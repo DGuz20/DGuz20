@@ -68,8 +68,6 @@ Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo w
 
 </div>
 
-> Las tarjetas dependen de servicios externos y de la actividad pública de esta cuenta. Pueden tardar en actualizarse o dejar de responder temporalmente.
-
 ## `contribution_snake`
 
 <div align="center">
@@ -80,7 +78,7 @@ Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo w
 
 ## `projects`
 
-Todavía estoy organizando qué proyectos trasladar a este perfil. Esta sección se actualizará con repositorios y herramientas publicados aquí; no se muestran proyectos de otra cuenta como si pertenecieran a esta.
+Portafolio Web : https://dguz20.github.io/portafolio/
 
 ## `connect`
 
