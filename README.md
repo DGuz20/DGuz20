@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="DGuzz20 — Web Development & CTF" width="100%">
+<img src="assets/header.svg" alt="DGuz20 — Web Development & CTF" width="100%">
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/DGuzz20?style=for-the-badge&logo=github&label=Followers&color=7c3aed)](https://github.com/DGuzz20?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=DGuzz20&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/DGuzz20)
+[![GitHub followers](https://img.shields.io/github/followers/DGuz20?style=for-the-badge&logo=github&label=Followers&color=7c3aed)](https://github.com/DGuz20?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=DGuz20&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/DGuz20)
 ![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-7c3aed?style=for-the-badge)
 
 </div>
 
 ## `whoami`
 
-Soy **Gustavo**, también conocido como **DGuzz20**. Me enfoco en el desarrollo web y practico retos **CTF** para fortalecer mis habilidades de resolución de problemas y seguridad informática.
+Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo web y practico retos **CTF** para fortalecer mis habilidades de resolución de problemas y seguridad informática.
 
 - **Intereses:** desarrollo web, CTF, ciberseguridad, Linux y terminal.
 - **Lenguajes y tecnologías:** HTML, CSS, JavaScript, PHP, SQL y Python.
@@ -53,18 +53,18 @@ Soy **Gustavo**, también conocido como **DGuzz20**. Me enfoco en el desarrollo 
 
 <div align="center">
 
-<a href="https://github.com/DGuzz20">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DGuzz20&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=a78bfa&icon_color=60a5fa&text_color=e5e7eb&ring_color=7c3aed&include_all_commits=true" alt="Estadísticas de GitHub de DGuzz20">
+<a href="https://github.com/DGuz20">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DGuz20&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=a78bfa&icon_color=60a5fa&text_color=e5e7eb&ring_color=7c3aed&include_all_commits=true" alt="Estadísticas de GitHub de DGuz20">
 </a>
-<a href="https://github.com/DGuzz20">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGuzz20&layout=compact&hide_border=true&bg_color=0b0b14&title_color=a78bfa&text_color=e5e7eb&langs_count=8" alt="Lenguajes más usados en GitHub">
+<a href="https://github.com/DGuz20">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGuz20&layout=compact&hide_border=true&bg_color=0b0b14&title_color=a78bfa&text_color=e5e7eb&langs_count=8" alt="Lenguajes más usados en GitHub">
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DGuzz20&theme=tokyonight&hide_border=true&background=0B0B14&ring=7C3AED&fire=60A5FA&currStreakLabel=A78BFA)](https://github.com/DGuzz20)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DGuz20&theme=tokyonight&hide_border=true&background=0B0B14&ring=7C3AED&fire=60A5FA&currStreakLabel=A78BFA)](https://github.com/DGuz20)
 
 </div>
 
@@ -74,7 +74,7 @@ Soy **Gustavo**, también conocido como **DGuzz20**. Me enfoco en el desarrollo 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/DGuzz20/DGuzz20/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/DGuz20/DGuz20/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -86,7 +86,7 @@ Todavía estoy organizando qué proyectos trasladar a este perfil. Esta sección
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DGuzz20-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DGuzz20)
+[![GitHub](https://img.shields.io/badge/GitHub-DGuz20-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DGuz20)
 
 </div>
 
