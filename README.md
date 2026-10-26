@@ -67,9 +67,10 @@ Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo w
 
 </div>
 
-## `projects`
+## 🚀 Proyectos
 
-Portafolio Web : https://dguz20.github.io/portafolio/
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=DGuz20&repo=portafolio&theme=radical&hide_border=true)](https://github.com/DGuz20/portafolio)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=DGuz20&repo=tareas_diarias_py&theme=radical&hide_border=true)](https://github.com/DGuz20/tareas_diarias_py)
 
 ## `connect`
 
