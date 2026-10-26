@@ -53,12 +53,8 @@ Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo w
 
 <div align="center">
 
-<a href="https://github.com/DGuz20">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DGuz20&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=a78bfa&icon_color=60a5fa&text_color=e5e7eb&ring_color=7c3aed&include_all_commits=true" alt="Estadísticas de GitHub de DGuz20">
-</a>
-<a href="https://github.com/DGuz20">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGuz20&layout=compact&hide_border=true&bg_color=0b0b14&title_color=a78bfa&text_color=e5e7eb&langs_count=8" alt="Lenguajes más usados en GitHub">
-</a>
+
+<p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=DGuz20&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGuz20&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" /> </p> <p> <img src="https://streak-stats.demolab.com?user=DGuz20&theme=radical&hide_border=true" alt="Racha de contribuciones" /> </p>
 
 </div>
 
