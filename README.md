@@ -58,11 +58,6 @@ Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo w
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DGuz20&theme=tokyonight&hide_border=true&background=0B0B14&ring=7C3AED&fire=60A5FA&currStreakLabel=A78BFA)](https://github.com/DGuz20)
-
-</div>
 
 ## `contribution_snake`
 
