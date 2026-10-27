@@ -70,6 +70,7 @@ Soy **Gustavo**, también conocido como **DGuz20**. Me enfoco en el desarrollo w
 ## 🚀 Proyectos
 
 <!-- PROJECTS:START -->
+[![Clima_JS](https://github-readme-stats.vercel.app/api/pin/?username=DGuz20&repo=Clima_JS&theme=radical&hide_border=true)](https://github.com/DGuz20/Clima_JS)
 [![juego_mazmorra](https://github-readme-stats.vercel.app/api/pin/?username=DGuz20&repo=juego_mazmorra&theme=radical&hide_border=true)](https://github.com/DGuz20/juego_mazmorra)
 [![portafolio](https://github-readme-stats.vercel.app/api/pin/?username=DGuz20&repo=portafolio&theme=radical&hide_border=true)](https://github.com/DGuz20/portafolio)
 [![tareas_diarias_py](https://github-readme-stats.vercel.app/api/pin/?username=DGuz20&repo=tareas_diarias_py&theme=radical&hide_border=true)](https://github.com/DGuz20/tareas_diarias_py)
